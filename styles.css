@@ -4,6 +4,7 @@ background-color: #fceae8;
 
 .panda-btn-warning{
     background-color:#ff3384;
+    color:white;
 }
 
 .catagory-image img{
@@ -11,7 +12,8 @@ background-color: #fceae8;
 }
 
 .s-icons{
-    font-size: 2rem;
+    font-size: 1.5rem;
     color: #fceae8;
+    padding: 5px;
 
 }
